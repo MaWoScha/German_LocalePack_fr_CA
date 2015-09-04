@@ -13,7 +13,7 @@ French language pack for Magento Commerce - Version for Canada
 Französisches Sprachpaket für Magento Commerce - Sprachversion für Kanada</description>
    <license>OSL</license>
    <license_uri>http://opensource.org/licenses/osl-3.0.php</license_uri>
-   <version>0.1.0</version>
+   <version>0.2.0</version>
    <stability>stable</stability>
    <notes>Compatible with Magento 1.6.x-1.9.2.x</notes>
    <authors>
@@ -62,8 +62,77 @@ Französisches Sprachpaket für Magento Commerce - Sprachversion für Kanada</de
    <contents>
       <target>
          <target>magelocal</target>
+         <target>magedesign</target>
+         <target>magedesign</target>
+         <target>magedesign</target>
          <target>magecommunity</target>
          <target>mageetc</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
+         <target>magelocale</target>
          <target>magelocale</target>
          <target>magelocale</target>
          <target>magelocale</target>
@@ -71,8 +140,77 @@ Französisches Sprachpaket für Magento Commerce - Sprachversion für Kanada</de
       </target>
       <path>
          <path/>
+         <path>adminhtml/default/default/locale/fr_CA/translate.csv</path>
+         <path>frontend/default/default/locale/fr_CA/translate.csv</path>
+         <path>frontend/rwd/default/locale/fr_CA/translate.csv</path>
          <path>German/LocalePackCa</path>
          <path>modules/German_LocalePackCa.xml</path>
+         <path>fr_CA/Mage_Adminhtml.csv</path>
+         <path>fr_CA/Mage_AdminNotification.csv</path>
+         <path>fr_CA/Mage_AmazonPayments.csv</path>
+         <path>fr_CA/Mage_Api.csv</path>
+         <path>fr_CA/Mage_Api2.csv</path>
+         <path>fr_CA/Mage_Authorizenet.csv</path>
+         <path>fr_CA/Mage_Backup.csv</path>
+         <path>fr_CA/Mage_Bundle.csv</path>
+         <path>fr_CA/Mage_Captcha.csv</path>
+         <path>fr_CA/Mage_Catalog.csv</path>
+         <path>fr_CA/Mage_CatalogInventory.csv</path>
+         <path>fr_CA/Mage_CatalogRule.csv</path>
+         <path>fr_CA/Mage_CatalogSearch.csv</path>
+         <path>fr_CA/Mage_Centinel.csv</path>
+         <path>fr_CA/Mage_Checkout.csv</path>
+         <path>fr_CA/Mage_Cms.csv</path>
+         <path>fr_CA/Mage_Compiler.csv</path>
+         <path>fr_CA/Mage_ConfigurableSwatches.csv</path>
+         <path>fr_CA/Mage_Connect.csv</path>
+         <path>fr_CA/Mage_Contacts.csv</path>
+         <path>fr_CA/Mage_Core.csv</path>
+         <path>fr_CA/Mage_Cron.csv</path>
+         <path>fr_CA/Mage_CurrencySymbol.csv</path>
+         <path>fr_CA/Mage_Customer.csv</path>
+         <path>fr_CA/Mage_Dataflow.csv</path>
+         <path>fr_CA/Mage_Directory.csv</path>
+         <path>fr_CA/Mage_Downloadable.csv</path>
+         <path>fr_CA/Mage_Eav.csv</path>
+         <path>fr_CA/Mage_GiftMessage.csv</path>
+         <path>fr_CA/Mage_GoogleAnalytics.csv</path>
+         <path>fr_CA/Mage_GoogleBase.csv</path>
+         <path>fr_CA/Mage_GoogleCheckout.csv</path>
+         <path>fr_CA/Mage_ImportExport.csv</path>
+         <path>fr_CA/Mage_Index.csv</path>
+         <path>fr_CA/Mage_Install.csv</path>
+         <path>fr_CA/Mage_Log.csv</path>
+         <path>fr_CA/Mage_Media.csv</path>
+         <path>fr_CA/Mage_Newsletter.csv</path>
+         <path>fr_CA/Mage_Oauth.csv</path>
+         <path>fr_CA/Mage_Page.csv</path>
+         <path>fr_CA/Mage_PageCache.csv</path>
+         <path>fr_CA/Mage_Paygate.csv</path>
+         <path>fr_CA/Mage_Payment.csv</path>
+         <path>fr_CA/Mage_Paypal.csv</path>
+         <path>fr_CA/Mage_PaypalUk.csv</path>
+         <path>fr_CA/Mage_Persistent.csv</path>
+         <path>fr_CA/Mage_Poll.csv</path>
+         <path>fr_CA/Mage_ProductAlert.csv</path>
+         <path>fr_CA/Mage_Rating.csv</path>
+         <path>fr_CA/Mage_Reports.csv</path>
+         <path>fr_CA/Mage_Review.csv</path>
+         <path>fr_CA/Mage_Rss.csv</path>
+         <path>fr_CA/Mage_Rule.csv</path>
+         <path>fr_CA/Mage_Sales.csv</path>
+         <path>fr_CA/Mage_SalesRule.csv</path>
+         <path>fr_CA/Mage_Sendfriend.csv</path>
+         <path>fr_CA/Mage_Shipping.csv</path>
+         <path>fr_CA/Mage_Sitemap.csv</path>
+         <path>fr_CA/Mage_Tag.csv</path>
+         <path>fr_CA/Mage_Tax.csv</path>
+         <path>fr_CA/Mage_Usa.csv</path>
+         <path>fr_CA/Mage_Weee.csv</path>
+         <path>fr_CA/Mage_Widget.csv</path>
+         <path>fr_CA/Mage_Wishlist.csv</path>
+         <path>fr_CA/Mage_XmlConnect.csv</path>
+         <path>fr_CA/Phoenix_Moneybookers.csv</path>
          <path>fr_CA/German_LocaleCa.csv</path>
          <path>de_DE/German_LocaleCa.csv</path>
          <path>en_US/German_LocaleCa.csv</path>
@@ -80,7 +218,76 @@ Französisches Sprachpaket für Magento Commerce - Sprachversion für Kanada</de
       </path>
       <type>
          <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
          <type>dir</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
+         <type>file</type>
          <type>file</type>
          <type>file</type>
          <type>file</type>
@@ -95,9 +302,147 @@ Französisches Sprachpaket für Magento Commerce - Sprachversion für Kanada</de
          <include/>
          <include/>
          <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
+         <include/>
       </include>
       <ignore>
          <ignore/>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
+         <ignore>#^.DS_Store#</ignore>
          <ignore>#^.DS_Store#</ignore>
          <ignore>#^.DS_Store#</ignore>
          <ignore>#^.DS_Store#</ignore>
