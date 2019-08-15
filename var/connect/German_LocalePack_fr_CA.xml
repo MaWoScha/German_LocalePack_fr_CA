@@ -13,9 +13,9 @@ French language pack for Magento Commerce - Version for Canada
 Französisches Sprachpaket für Magento Commerce - Sprachversion für Kanada</description>
    <license>OSL</license>
    <license_uri>http://opensource.org/licenses/osl-3.0.php</license_uri>
-   <version>0.2.0</version>
+   <version>0.2.1</version>
    <stability>stable</stability>
-   <notes>Compatible with Magento 1.6.x-1.9.2.x</notes>
+   <notes>Compatible with Magento 1.6.x-1.9.4.x</notes>
    <authors>
       <name>
          <name>Manfred Worm Schäfer</name>
@@ -28,7 +28,7 @@ Französisches Sprachpaket für Magento Commerce - Sprachversion für Kanada</de
       </email>
    </authors>
    <depends_php_min>5.2.0</depends_php_min>
-   <depends_php_max>6.0.0</depends_php_max>
+   <depends_php_max>7.1.0</depends_php_max>
    <depends>
       <package>
          <name>
@@ -67,6 +67,7 @@ Französisches Sprachpaket für Magento Commerce - Sprachversion für Kanada</de
          <target>magedesign</target>
          <target>magecommunity</target>
          <target>mageetc</target>
+         <target>magelocale</target>
          <target>magelocale</target>
          <target>magelocale</target>
          <target>magelocale</target>
@@ -205,6 +206,7 @@ Französisches Sprachpaket für Magento Commerce - Sprachversion für Kanada</de
          <path>fr_CA/Mage_Sitemap.csv</path>
          <path>fr_CA/Mage_Tag.csv</path>
          <path>fr_CA/Mage_Tax.csv</path>
+         <path>fr_CA/Mage_Uploader.csv</path>
          <path>fr_CA/Mage_Usa.csv</path>
          <path>fr_CA/Mage_Weee.csv</path>
          <path>fr_CA/Mage_Widget.csv</path>
@@ -222,6 +224,7 @@ Französisches Sprachpaket für Magento Commerce - Sprachversion für Kanada</de
          <type>file</type>
          <type>file</type>
          <type>dir</type>
+         <type>file</type>
          <type>file</type>
          <type>file</type>
          <type>file</type>
@@ -371,9 +374,11 @@ Französisches Sprachpaket für Magento Commerce - Sprachversion für Kanada</de
          <include/>
          <include/>
          <include/>
+         <include/>
       </include>
       <ignore>
          <ignore/>
+         <ignore>#^.DS_Store#</ignore>
          <ignore>#^.DS_Store#</ignore>
          <ignore>#^.DS_Store#</ignore>
          <ignore>#^.DS_Store#</ignore>
